@@ -1,8 +1,8 @@
-# Install script for directory: D:/GIT/9-practica-contenedores-toreno-Manu-t-c
+# Install script for directory: D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3a5s8m
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/9_practica_contenedores_toreno_Manu_t_c")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/CMAKE_TRY_COMPILE")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -12,7 +12,7 @@ if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
     string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
   else()
-    set(CMAKE_INSTALL_CONFIG_NAME "Debug")
+    set(CMAKE_INSTALL_CONFIG_NAME "")
   endif()
   message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
 endif()
@@ -32,11 +32,6 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-# Set path to fallback-tool for dependency-resolution.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/mingw64/bin/objdump.exe")
-endif()
-
 if(CMAKE_INSTALL_COMPONENT)
   if(CMAKE_INSTALL_COMPONENT MATCHES "^[a-zA-Z0-9_.+-]+$")
     set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
@@ -52,6 +47,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3a5s8m/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
