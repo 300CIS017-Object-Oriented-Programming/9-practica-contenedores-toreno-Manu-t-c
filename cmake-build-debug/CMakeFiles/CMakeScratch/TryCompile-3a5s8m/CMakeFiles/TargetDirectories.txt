@@ -1,3 +1,0 @@
-D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3a5s8m/CMakeFiles/cmTC_c61dc.dir
-D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3a5s8m/CMakeFiles/edit_cache.dir
-D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3a5s8m/CMakeFiles/rebuild_cache.dir

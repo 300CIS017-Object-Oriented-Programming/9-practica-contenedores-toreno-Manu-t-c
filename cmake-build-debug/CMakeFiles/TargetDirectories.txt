@@ -1,0 +1,3 @@
+D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir
+D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

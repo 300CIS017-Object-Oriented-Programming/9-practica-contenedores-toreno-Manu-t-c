@@ -49,67 +49,67 @@ cmake_ninja_workdir = D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-buil
 
 build cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c: phony || .
 
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/main.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/main.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\main.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\main.cpp.obj.ddi
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/main.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/main.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\main.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\main.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\main.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\main.cpp.obj.ddi.i
+  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\main.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\main.cpp.obj.ddi.i
 
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/main.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/main.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/main.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\main.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\main.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
-  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
-  dyndep = CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
-
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Torneo.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/Torneo.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Torneo.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Torneo.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Torneo.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Torneo.cpp.obj.ddi.i
-
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Torneo.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/Torneo.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Torneo.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Torneo.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Torneo.cpp.obj.modmap
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/main.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/main.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/main.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\main.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\main.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
-  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src
   dyndep = CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
 
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Videojuego.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/Videojuego.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Videojuego.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Videojuego.cpp.obj.ddi
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Torneo.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/Torneo.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Torneo.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Torneo.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Videojuego.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Videojuego.cpp.obj.ddi.i
+  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Torneo.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Torneo.cpp.obj.ddi.i
 
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Videojuego.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/Videojuego.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Videojuego.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Videojuego.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Videojuego.cpp.obj.modmap
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Torneo.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/Torneo.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Torneo.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Torneo.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Torneo.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
-  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src
   dyndep = CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
 
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Jugador.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/Jugador.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Jugador.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Jugador.cpp.obj.ddi
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Videojuego.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/Videojuego.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Videojuego.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Videojuego.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Jugador.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Jugador.cpp.obj.ddi.i
+  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Videojuego.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Videojuego.cpp.obj.ddi.i
 
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Jugador.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/Jugador.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Jugador.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
-  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Jugador.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\Jugador.cpp.obj.modmap
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Videojuego.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/Videojuego.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Videojuego.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Videojuego.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Videojuego.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
-  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src
   dyndep = CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
 
-build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd | D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXXModules.json CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/main.cpp.obj.modmap CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Torneo.cpp.obj.modmap CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Videojuego.cpp.obj.modmap CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Jugador.cpp.obj.modmap: CXX_DYNDEP__9_practica_contenedores_toreno_Manu_t_c_Debug CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/main.cpp.obj.ddi CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Torneo.cpp.obj.ddi CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Videojuego.cpp.obj.ddi CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Jugador.cpp.obj.ddi | D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXXDependInfo.json
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Jugador.cpp.obj.ddi: CXX_SCAN__9_practica_contenedores_toreno_Manu_t_c_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/Jugador.cpp || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Jugador.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Jugador.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Jugador.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Jugador.cpp.obj.ddi.i
+
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Jugador.cpp.obj: CXX_COMPILER__9_practica_contenedores_toreno_Manu_t_c_scanned_Debug D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/src/Jugador.cpp | CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Jugador.cpp.obj.modmap || cmake_object_order_depends_target_9_practica_contenedores_toreno_Manu_t_c CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
+  DEP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Jugador.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src\Jugador.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir\src
+  dyndep = CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd
+
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd | D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXXModules.json CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/main.cpp.obj.modmap CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Torneo.cpp.obj.modmap CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Videojuego.cpp.obj.modmap CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Jugador.cpp.obj.modmap: CXX_DYNDEP__9_practica_contenedores_toreno_Manu_t_c_Debug CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/main.cpp.obj.ddi CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Torneo.cpp.obj.ddi CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Videojuego.cpp.obj.ddi CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Jugador.cpp.obj.ddi | D$:/GIT/9-practica-contenedores-toreno-Manu-t-c/cmake-build-debug/CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -119,7 +119,7 @@ build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/CXX.dd | D$:/GIT/9-
 #############################################
 # Link the executable 9_practica_contenedores_toreno_Manu_t_c.exe
 
-build 9_practica_contenedores_toreno_Manu_t_c.exe: CXX_EXECUTABLE_LINKER__9_practica_contenedores_toreno_Manu_t_c_Debug CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/main.cpp.obj CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Torneo.cpp.obj CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Videojuego.cpp.obj CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/Jugador.cpp.obj
+build 9_practica_contenedores_toreno_Manu_t_c.exe: CXX_EXECUTABLE_LINKER__9_practica_contenedores_toreno_Manu_t_c_Debug CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/main.cpp.obj CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Torneo.cpp.obj CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Videojuego.cpp.obj CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Jugador.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\9_practica_contenedores_toreno_Manu_t_c.dir

@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/main.cpp.obj: dyndep
+
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Torneo.cpp.obj: dyndep
+
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Videojuego.cpp.obj: dyndep
+
+build CMakeFiles/9_practica_contenedores_toreno_Manu_t_c.dir/src/Jugador.cpp.obj: dyndep
+
